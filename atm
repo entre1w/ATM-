@@ -15,7 +15,7 @@ void gaimi();
 void xunzhao();                    
 int zhuangtai1(int a);           
 int zhuangtai2(int a);
-          
+
 typedef struct
 {
 	int    account;            
